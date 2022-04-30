@@ -21,7 +21,7 @@
 
 2. 在docs/category/social_science.md中添加图书名字
    
-   例如："## [枪炮、病菌与钢铁](../../social_science/枪炮、病菌与钢铁.md)"
+   例如："## [枪炮、病菌与钢铁](social_science/枪炮、病菌与钢铁.md)"
 
 
 3. 提交代码到github: https://github.com/thymeC/readit
