@@ -1,0 +1,7 @@
+- [Readit](README.md)
+  - [计算机](../category/computer_science.md)
+  - [生活休闲](../category/leisure_life.md)
+  - [经济管理](../category/economic_management.md)
+  - [社会科学](../category/social_science.md)
+  - [家庭教育](../category/family_eduction.md)
+  - [其他](../category/others.md)
