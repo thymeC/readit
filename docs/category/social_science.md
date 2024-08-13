@@ -4,3 +4,4 @@
 ## [比较政治学](social_science/比较政治学.md)
 ## [拉丁美洲被切开的血管](social_science/拉丁美洲被切开的血管.md)
 ## [社会心理学](social_science/social_psycology.md)
+## [蛤蟆先生去看心理医生](social_science/蛤蟆先生去看心理医生.md)
