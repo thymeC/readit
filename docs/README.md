@@ -1,4 +1,7 @@
 # Readit 学习档案馆
+
+**Live site:** [https://readit.jingc.online/#/](https://readit.jingc.online/#/)
+
 ### 阅读，给你主宰自己的力量
 ---
 Readit - 每日读书分享群组
